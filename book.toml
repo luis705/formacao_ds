@@ -1,0 +1,10 @@
+[book]
+authors = ["Luís Otávio Amorim"]
+language = "pt"
+multilingual = false
+src = "src"
+title = "Formação DS - Alura"
+
+[output.html]
+mathjax-support = true
+additional-css = ["src/stylesheets/custom.css"]
