@@ -1,4 +1,4 @@
-# Regressça linear: testando relações e prevendo resultados
+# Regressão linear: testando relações e prevendo resultados
 
 ## Introdução
 

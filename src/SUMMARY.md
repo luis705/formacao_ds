@@ -4,3 +4,4 @@
 - [Estatística com python: frequências e medidas](./curso-1.md)
 - [Estatística com python: probabilidade e amostragem](./curso-2.md)
 - [Regressão linear: testando relações e prevendo resultados](./curso-3.md)
+- [Regressão linear: técnicas avançadas de modelagem](./curso-4.md)
